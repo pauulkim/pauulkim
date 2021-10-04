@@ -1,7 +1,7 @@
 #### :wave: Hi, I'm Paul
 - :eyes: I'm interested in hiking, music, and basketball
 - 🌱 I’m currently learning how to code more efficiently
-- 📫 Email: [paulwkim30@gmail.com]()
+- 📫 Email: paulwkim30@gmail.com
 <!--
 **pauulkim/pauulkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
